@@ -9,7 +9,7 @@ Welcome to the Insurance Cost Calculator! This Python program estimates insuranc
 
 ## How to Use
 1. Clone the repository to your local machine.
-2. Run the `insurance_cost_calculator.py` file.
+2. Run the `main.py` file.
 3. Follow the prompts to enter your name, age, sex, BMI, number of children, and smoking status.
 4. The program will calculate and display your estimated insurance cost.
 
